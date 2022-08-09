@@ -1,0 +1,12 @@
+# Python cache 
+/__pycache__
+
+# data files
+*.csv
+*.xlsx
+
+# image files
+*.png
+
+# venv
+/venv
